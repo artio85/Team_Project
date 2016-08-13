@@ -125,7 +125,7 @@ ul.f_left_p{
 }
 .h_right a i {
 	display: table-cell;
-	padding: 25px;
+	padding: 5%; /*25px was*/
 	font-size: 15px;
 }
 

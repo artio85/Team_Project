@@ -124,8 +124,9 @@ ul.f_left_p{
 	font-size: 30px;
 }
 .h_right a i {
-	display: table-cell;
-	padding: 25px;
+	display: inline-block;
+	text-align: center;
+	padding: 5%; 
 	font-size: 15px;
 }
 
@@ -136,9 +137,9 @@ ul.f_left_p{
 }
 
 .h_left , .h_center , .h_right{
+	display: table-cell;
 	text-align: center;
 	width: 400px;
-	display: table-cell;
 }
 
 .f_left_p{
